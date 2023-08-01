@@ -8,3 +8,5 @@
 
 [免费的游戏加速器steam++？](https://github.com/BeyondDimension/SteamTools/releases/tag/2.8.6)里面有个GitHub加速的，至少现在用着还行
 
+补充
+找到之前开cfw都进不去的原因了，之前看go课的时候跟着下载了一个Proxy SwitchyOmega的插件，但是游览器插件选择的是直连模式，改回系统代理就行了
